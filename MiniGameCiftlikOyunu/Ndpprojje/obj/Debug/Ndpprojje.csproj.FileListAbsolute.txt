@@ -1,0 +1,40 @@
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\bin\Debug\Ndpprojje.exe.config
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\bin\Debug\Ndpprojje.exe
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\bin\Debug\Ndpprojje.pdb
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.csprojAssemblyReference.cache
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.Properties.Resources.resources
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.csproj.GenerateResource.cache
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.csproj.CoreCompileInputs.cache
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.exe
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.pdb
+C:\Users\Killua\source\repos\Ndpprojje\Ndpprojje\obj\Debug\Ndpprojje.FormHayvanCiftligi.resources
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.csprojAssemblyReference.cache
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.FormHayvanCiftligi.resources
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.Properties.Resources.resources
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.csproj.GenerateResource.cache
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.csproj.CoreCompileInputs.cache
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.exe
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\obj\Debug\Ndpprojje.pdb
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\bin\Debug\Ndpprojje.exe.config
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\bin\Debug\Ndpprojje.exe
+C:\Users\Killua\ODEVLER\1_2_NesneyeDayaliProgramlama\proje\Ndpprojje_Firstt\Ndpprojje\bin\Debug\Ndpprojje.pdb
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\bin\Debug\Ndpprojje.exe.config
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\bin\Debug\Ndpprojje.exe
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\bin\Debug\Ndpprojje.pdb
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.csprojAssemblyReference.cache
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.FormHayvanCiftligi.resources
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.Properties.Resources.resources
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.csproj.GenerateResource.cache
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.csproj.CoreCompileInputs.cache
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.exe
+C:\Users\Killua\Desktop\Ndpprojje_lastttt\Ndpprojje_last-1\Ndpprojje\obj\Debug\Ndpprojje.pdb
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\bin\Debug\Ndpprojje.exe.config
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\bin\Debug\Ndpprojje.exe
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\bin\Debug\Ndpprojje.pdb
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.csprojAssemblyReference.cache
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.FormHayvanCiftligi.resources
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.Properties.Resources.resources
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.csproj.GenerateResource.cache
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.csproj.CoreCompileInputs.cache
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.exe
+C:\Users\Ziroo\Desktop\githuba atilacak\ciftlik\MiniGameCiftlik_FormUygulamasi\Ndpprojje\obj\Debug\Ndpprojje.pdb
